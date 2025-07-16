@@ -1,4 +1,7 @@
 # Firearm-detection-and-classification
+A firearm detection and classification system using ResNet50 and classical ML models to identify handguns and machine guns from surveillance video frames.
+
+---
 **Main idea**
 
 The project aims to address contemporary security challenges by harnessing cutting-edge technology to promptly identify firearms and classify them, thus empowering law enforcement agencies with enhanced threat assessment and response capabilities.
